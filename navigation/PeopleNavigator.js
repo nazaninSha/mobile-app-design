@@ -3,7 +3,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import * as React from 'react';
 
 // Import navigation and screens
-// import ViewPeopleScreen from '../screens/ViewPeopleScreen';
+import ViewPeopleScreen from '../screens/ViewPeopleScreen';
 const Stack = createNativeStackNavigator();
 
 // Import styling and components
